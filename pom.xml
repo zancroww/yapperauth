@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.julaybib</groupId>
-	<artifactId>AuthService</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>authservice</artifactId>
+	<version>1</version>
 	<name>AuthService</name>
 	<description>Authentication endpoint for Chat App</description>
 	<url/>
